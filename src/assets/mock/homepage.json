@@ -1,0 +1,19 @@
+{
+    
+        "heading": "This is heading ",
+        "footer":"nithin@2021",
+        "copy":"copyrights@",
+        "subHeading": "This is subheading ",
+        "welcomeText": "Hi There, how are you -- ",
+        "userName": "  welcome Nithin ",
+        "homepage": {
+            "heading": "some heading",
+            "loginButtonText": "Login",
+            "logoutButtonText": "Logout"
+        },
+        "register": {
+            "buttonText": "Register",
+            "signInButtonText": "Sign In"
+        }
+    
+}

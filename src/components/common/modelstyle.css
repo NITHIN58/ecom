@@ -1,0 +1,26 @@
+.model-wrapper-container {
+    position: fixed;
+    padding-left: 0;
+    padding-right: 25%;
+    padding-top: 200px;
+    top: 20px;
+    left: 200px;
+    margin: auto;
+    height: 90%;
+    width: 70%;
+    background-color: rgba(226, 225, 241, 0.8);
+    z-index: 9998;
+    
+  }
+  
+  .modelComponent {
+    position: fixed;
+    left: 40%;
+    top: 30px;
+    background-color: rgb(128, 120, 120);
+    margin: auto;
+    z-index: 1;
+    color: black;
+    
+  }
+  

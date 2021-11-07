@@ -1,0 +1,45 @@
+{"Head":{
+    "heading":" Welcome nithin",
+    "Button":"Login",
+    "Log":"sign in",
+    "register":"register"
+    },  
+
+    "header": {
+        "heading": "Hi Please Login or Register",
+        "signupbtn": "Sign Up",
+        "cart": "Cart",
+        "adminbtn": "Admin"
+      },
+
+
+
+        "footer": {
+          "footingin": "Copyright@nithin",
+          "footingout": "Copyright@",
+          "year": 2021
+        },
+      
+
+
+
+      "login": {
+        "loginbtn": "Sign In",
+        "forgotpass": "Forgot password?",
+        "noaccount": "Don't have an account? Sign Up"
+      },
+    
+      "register": {
+        "logaccount": "Already have an account? Login"
+      },
+    
+      "adminLogin":{
+        "adminloginbtn":"Admin Login"
+      },
+    
+      "admin":{
+        "adminHeading":"Welcome Admin",
+        "adminLogout":"Logout",
+        "addproductbtn":"Add Product"
+      }
+}

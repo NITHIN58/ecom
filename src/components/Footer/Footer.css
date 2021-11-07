@@ -1,0 +1,14 @@
+.f{
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background: linear-gradient(90deg,rgb(159, 150, 238)0%,rgba(73,63,252,1)100%); */
+  background:linear-gradient(90deg,rgb(38, 38, 41)0%,rgba(73,63,252,1)100%);
+  border-radius: 10px;
+  box-shadow:0px -10px 5px #8888;
+  color: white;
+  text-align: center;
+}
+    
+    
